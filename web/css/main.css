@@ -10,6 +10,20 @@
 	display:block;
 }
 
+body {
+    font-family: 'Roboto', serif;	
+
+}
+
+/* ===== Header Specific ========*/
+.headerSearch {
+
+padding-top: 7px;
+
+}
+
+
+/* =====Footer specific ==========*/
 .social {
 	padding-bottom:10px;
 }
