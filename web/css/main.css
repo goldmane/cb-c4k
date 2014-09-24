@@ -11,18 +11,30 @@
 }
 
 .right {
-	float:right;}
+	float:right;
+}
 
 body {
     font-family: 'Roboto', serif;	
 
 }
 
+/* ===== call to action =========*/
+.cta {
+background-image: url("../img/ctabg.png");
+	background-size: 100%;
+	padding:0px;
+}
+
 /* ===== Header Specific ========*/
-.headerSearch {
+.navbar-header {
 
 padding-top: 7px;
 
+}
+
+.nav {
+	
 }
 
 
