@@ -10,6 +10,9 @@
 	display:block;
 }
 
+.right {
+	float:right;}
+
 body {
     font-family: 'Roboto', serif;	
 
