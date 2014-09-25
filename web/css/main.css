@@ -26,6 +26,22 @@ background-image: url("../img/ctabg.png");
 	padding:0px;
 }
 
+.grey-backer {
+background-image: url("../img/donateBacker.png");
+	background-size: 100%;
+
+}
+
+.quotes {
+	background-image: url("../img/bottomDivider.png");
+
+}
+
+.donate {
+	margin-top:10px;
+}
+
+
 /* ===== Header Specific ========*/
 .navbar-header {
 
