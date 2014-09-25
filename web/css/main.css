@@ -11,18 +11,46 @@
 }
 
 .right {
-	float:right;}
+	float:right;
+}
 
 body {
     font-family: 'Roboto', serif;	
 
 }
 
+/* ===== call to action =========*/
+.cta {
+background-image: url("../img/ctabg.png");
+	background-size: 100%;
+	padding:0px;
+}
+
+.grey-backer {
+background-image: url("../img/donateBacker.png");
+	background-size: 100%;
+
+}
+
+.quotes {
+	background-image: url("../img/bottomDivider.png");
+
+}
+
+.donate {
+	margin-top:10px;
+}
+
+
 /* ===== Header Specific ========*/
-.headerSearch {
+.navbar-header {
 
 padding-top: 7px;
 
+}
+
+.nav {
+	
 }
 
 
